@@ -300,7 +300,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <!-- Form -->
 <h3>Form</h3>
 
-<form method="post" action="#">
+<form method="post" action="https://formspree.io/f/mjkbvnkw">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
 			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
@@ -378,13 +378,13 @@ Finally, this is a <a href="#">link</a>.</p>
 </div>
 
 <h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></spanRuby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
+<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
 
 <!-- Box -->
 <h3>Box</h3>
 <div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+	<p>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
 </div>
 
 <!-- Preformatted Code -->
