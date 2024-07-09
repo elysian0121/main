@@ -1,10 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: My Profile
+subtitle: by Ruby
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://elysian0121.github.io/main" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -42,3 +42,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+theme: jekyll-theme-primer
