@@ -1,17 +1,17 @@
 # site settings
 title: My Profile
 subtitle: by Ruby
-email: youremailaddress@gmail.com
+email: elysian0121@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/main" # the subpath of your site, e.g. /blog
 url: "https://elysian0121.github.io/main" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashvill
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 26 Zhenli Street
+city: NTPC
+state: Taiwan
+zip_code: 251024
+country: Taiwan
+phone: (02) 26203850
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://www.tksh.ntpc.edu.tw/
+  GitLab: https://www.tksh.ntpc.edu.tw/
+  Google-Plus: https://www.tksh.ntpc.edu.tw/
+  Instagram: https://www.tksh.ntpc.edu.tw/
+  LinkedIn: https://www.tksh.ntpc.edu.tw/
+  Twitter: https://www.tksh.ntpc.edu.tw/
+  Facebook: https://www.facebook.com/p/%E6%96%B0%E5%8C%97%E5%B8%82%E7%A7%81%E7%AB%8B%E6%B7%A1%E6%B1%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8-100064178763805/
+  Slack: https://www.tksh.ntpc.edu.tw/
 
 # build settings
 markdown: kramdown
