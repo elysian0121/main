@@ -114,7 +114,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <dl>
 	<dt>Item1</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
 	</dd>
 	<dt>Item2</dt>
 	<dd>
@@ -164,7 +164,7 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Blockquote -->
 <h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+<blockquote>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</blockquote>
 
 <!-- Table -->
 <h3>Table</h3>
@@ -378,7 +378,7 @@ Finally, this is a <a href="#">link</a>.</p>
 </div>
 
 <h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></spanRuby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
+<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.</p>
 
 <!-- Box -->
